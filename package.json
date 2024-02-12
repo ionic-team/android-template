@@ -1,0 +1,15 @@
+{  
+  "name": "@capacitor/android-template",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "capacitor:add:after": "node scripts/setup.mjs"
+  },
+  "keywords": [],
+  "dependencies": {
+    "@ionic/utils-fs": "^3.1.6"
+  },
+  "author": "",
+  "license": "ISC"
+}
